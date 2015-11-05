@@ -1,0 +1,23 @@
+name: LifeCoach
+favicon: null
+layout_spectrum: 0.07930692262016237
+typography_spectrum: 0.28848430002108216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.17029169690795243
+  lightness: 0.2666953136213124
+  saturation: 0.6625811501871794
+  rhythmicContrast: 0.9666285398416221
+purpose: []
